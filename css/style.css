@@ -1,0 +1,26 @@
+body{
+    background-color: #f7faedb9;
+    background-image: url(/img/download.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200;
+    width: 200;
+}
+label{
+   color: rgba(22, 21, 22, 0.479);
+}
+input{
+    color: rgba(3, 17, 5, 0.555);
+    background-color: white;
+}
+div{
+   background-color: tomato;
+   width: 300px;
+   border: yellow;
+   border-radius: 20px;
+   padding-bottom: 25px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 2px;
+   margin-bottom: 2px;
+ }
